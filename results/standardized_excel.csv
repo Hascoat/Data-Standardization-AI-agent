@@ -1,0 +1,6 @@
+contrat_id,date_operation,description,montant
+CONTR-001A,2024-01-03,Prestation de service Mars 2024,1250.75
+CONTR-002B,2024-03-05,Achat Matériel Bureau,85.3
+CONTR-003C,2024-03-10,Frais de déplacement - Client X,112.0
+CONTR-004D,2024-03-15,Abonnement Logiciel Pro,299.99
+CONTR-005E,2024-02-28,Remboursement note de frais NDF-012,45.5
